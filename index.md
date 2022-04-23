@@ -24,5 +24,8 @@
 Welcome to the Fraponic language, a romance language distantly related to French that developed features similar to Japanese.
 
 ## Proto And Early
-[Ancient Fraponic](https://lwflouisa.github.io/Proto)<br />
-[Early Fraponic](https://lwflouisa.github.io/EarlyFraponic)
+[Ancient Fraponic](https://lwflouisa.github.io/FraponicStatic/Proto)<br />
+[Middle Fraponic](https://lwflouisa.github.io/FraponicStatic/MiddleFraponic/)<br />
+[Modern Fraponic](https://lwflouisa.github.io/FraponicStatic/ModernFraponic)
+
+## Dictionaries

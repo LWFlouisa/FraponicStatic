@@ -29,3 +29,6 @@ Welcome to the Fraponic language, a romance language distantly related to French
 [Modern Fraponic](https://lwflouisa.github.io/FraponicStatic/ModernFraponic)
 
 ## Dictionaries
+Note that there are three word genders for each catagory of loan words, and four outdated War specific Personal Pronouns.
+
+[Basic Dictionary](https://lwflouisa.github.io/FraponicStatic/BasicDictionary)
